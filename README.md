@@ -11,6 +11,6 @@ A simple and efficient time tracker application that helps users manage their ta
 
 ## Technologies Used
 
-- **HTML5**: For structuring the application.
-- **CSS3**: For styling and ensuring a responsive layout.
-- **JavaScript (ES6)**: For dynamic functionality and managing timers.
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
